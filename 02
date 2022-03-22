@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "ca-app-pub-3940256099942544/1033173712",
-                "am_native": "",
-                "am_banner": "ca-app-pub-3940256099942544/6300978111",
-                "am_appopen": "ca-app-pub-3940256099942544/3419835294",
-                "am_back_appopen": "",
-                "am_back_inter": "ca-app-pub-3940256099942544/1033173712",
+                "am_inter": "/211182487/ca-mb-app-pub-2726428685015992/screenrecoder.autovideocallrecoder.videochatrecoder_Interstitial_480x320",
+                "am_native": "/211182487/ca-mb-app-pub-2726428685015992/screenrecoder.autovideocallrecoder.videochatrecoder_Natie_320x250",
+                "am_banner": "/211182487/ca-mb-app-pub-2726428685015992/screenrecoder.autovideocallrecoder.videochatrecoder_Banner_320x50",
+                "am_appopen": "/211182487/ca-mb-app-pub-2726428685015992/screenrecoder.autovideocallrecoder.videochatrecoder_AppOpen_320x480",
+                "am_back_appopen": "/211182487/ca-mb-app-pub-2726428685015992/screenrecoder.autovideocallrecoder.videochatrecoder_AppOpen_320x480",
+                "am_back_inter": "/211182487/ca-mb-app-pub-2726428685015992/screenrecoder.autovideocallrecoder.videochatrecoder_Interstitial_480x320",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
