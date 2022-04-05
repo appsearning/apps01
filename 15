@@ -10,7 +10,7 @@
         ],
         "AppSetting": [
             {
-                "appislive": "yes",
+                "appislive": "no",
                 "am_inter": "/6499/example/interstitial",
                 "am_native": "/6499/example/native",
                 "am_banner": "/6499/example/banner",
