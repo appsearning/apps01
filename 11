@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/6499/example/interstitial",
-                "am_native": "",
-                "am_banner": "",
-                "am_appopen": "/6499/example/app-open",
-                "am_back_appopen": "",
-                "am_back_inter": "",
+                "am_inter": "/21753324030,22677682561/MV_Video_Editor_and_mbeat_video_master_Default_Full_Gujarati_To_English_Translator",
+                "am_native": "/21753324030,22677682561/MV_Video_Editor_and_mbeat_video_master_Default_Native_Gujarati_To_English_Translator",
+                "am_banner": "/21753324030,22677682561/MV_Video_Editor_and_mbeat_video_master_Default_Banner_Gujarati_To_English_Translator",
+                "am_appopen": "/21753324030,22677682561/MV_Video_Editor_and_mbeat_video_master_Default_Appopen_Gujarati_To_English_Translator",
+                "am_back_appopen": "/21753324030,22677682561/MV_Video_Editor_and_mbeat_video_master_Default_Appopen_Gujarati_To_English_Translator",
+                "am_back_inter": "/21753324030,22677682561/MV_Video_Editor_and_mbeat_video_master_Default_Full_Gujarati_To_English_Translator",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
