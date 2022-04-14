@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/206696744,22677682561/DKInfotech/stylishtext.chatstyleforkeyboard.chat.style_interstitial",
-                "am_native": "/206696744,22677682561/DKInfotech/stylishtext.chatstyleforkeyboard.chat.style_native",
-                "am_banner": "/206696744,22677682561/DKInfotech/stylishtext.chatstyleforkeyboard.chat.style_banner",
-                "am_appopen": "/206696744,22677682561/DKInfotech/stylishtext.chatstyleforkeyboard.chat.style_openapp",
-                "am_back_appopen": "/206696744,22677682561/DKInfotech/stylishtext.chatstyleforkeyboard.chat.style_openapp",
-                "am_back_inter": "/206696744,22677682561/DKInfotech/stylishtext.chatstyleforkeyboard.chat.style_interstitial",
+                "am_inter": "/21753324030,22677682561/Kali_Apps_Zone_Default_Full_Chat_Style_Stylish_Font",
+                "am_native": "/21753324030,22677682561/Kali_Apps_Zone_Default_Native_Chat_Style_Stylish_Font",
+                "am_banner": "/21753324030,22677682561/Kali_Apps_Zone_Default_Banner_Chat_Style_Stylish_Font",
+                "am_appopen": "/21753324030,22677682561/Kali_Apps_Zone_Default_Appopen_Chat_Style_Stylish_Font",
+                "am_back_appopen": "/21753324030,22677682561/Kali_Apps_Zone_Default_Appopen_Chat_Style_Stylish_Font",
+                "am_back_inter": "/21753324030,22677682561/Kali_Apps_Zone_Default_Full_Chat_Style_Stylish_Font",
                 "am_reward": "ca-app-pub-3940256099942544/5224354917",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
