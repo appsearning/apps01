@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/6499/example/interstitial",
-                "am_native": "/6499/example/native",
-                "am_banner": "/6499/example/banner",
-                "am_appopen": "/6499/example/app-open",
-                "am_back_appopen": "/6499/example/app-open",
-                "am_back_inter": "/6499/example/interstitial",
+                "am_inter": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_interstitial",
+                "am_native": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_native",
+                "am_banner": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_banner",
+                "am_appopen": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_openapp",
+                "am_back_appopen": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_openapp",
+                "am_back_inter": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_interstitial",
                 "am_reward": "ca-app-pub-3940256099942544/5224354917",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
