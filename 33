@@ -31,7 +31,7 @@
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
-                "addialogshow": "yes",
+                "addialogshow": "all",
                 "testmode": "no",
                 "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
