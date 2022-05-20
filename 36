@@ -12,7 +12,11 @@
             {
                 "appislive": "yes",
                 "am_inter": "/6499/example/interstitial",
+                "am_inter_adx1": "/6499/example/interstitial",
+                "am_inter_adx2": "/6499/example/interstitial",
+                "am_inter_adx3": "/6499/example/interstitial",
                 "am_native": "/6499/example/native",
+                "am_native1": "/6499/example/native",
                 "am_banner": "ca-app-pub-3940256099942544/6300978111",
                 "am_appopen": "/6499/example/app-open",
                 "am_back_appopen": "/6499/example/app-open",
