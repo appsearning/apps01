@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_interstitial",
-                "am_native": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_native",
-                "am_banner": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_banner",
-                "am_appopen": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_openapp",
-                "am_back_appopen": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_openapp",
-                "am_back_inter": "/206696744,22677682561/DKInfotech/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_interstitial",
+                "am_inter": "/21753324030,22677682561/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_Interstitial",
+                "am_native": "/21753324030,22677682561/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_Native",
+                "am_banner": "/21753324030,22677682561/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_Banner",
+                "am_appopen": "/21753324030,22677682561/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_AppOpen",
+                "am_back_appopen": "/21753324030,22677682561/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_AppOpen",
+                "am_back_inter": "/21753324030,22677682561/com.callerscreen.photocallerscreen.photocallerbackground.photophonediler.callerid_Interstitial",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
