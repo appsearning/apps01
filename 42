@@ -37,7 +37,7 @@
                 "addialogshow": "yes",
                 "testmode": "no",
                 "SplshScreen": "0",
-                "AllBack": "1",
+                "AllBack": "0",
                 "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
