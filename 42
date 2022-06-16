@@ -11,7 +11,7 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/6499/example/interstitial",
+                "am_inter": "",
                 "am_inter_adx1": "/6499/example/interstitial",
                 "am_inter_adx2": "/6499/example/interstitial",
                 "am_inter_adx3": "/6499/example/interstitial",
