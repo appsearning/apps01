@@ -16,9 +16,11 @@
          "admob_native":"/21753324030,22677682561/com.videodownloader.moviedownloader.downloader.socialmoviedownlaoder_Native",
          "admob_native_banner":"/21753324030,22677682561/com.videodownloader.moviedownloader.downloader.socialmoviedownlaoder_Native",
          "qureka_link":"https://1373.win.qureka.com",
-         "MGL_link":"https://497.go.mglgamez.com",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
          "PredictionChamp_link":"https://409.go.predchamp.com",
          "admobrewardedads":"/6499/example/rewarded",
+         "firstscreen":"true",
+         "secondscreen":"true",
          "isSplash":"false"
       }
    ]
