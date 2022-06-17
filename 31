@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "",
-                "am_native": "",
-                "am_banner": "",
-                "am_appopen": "",
-                "am_back_appopen": "",
-                "am_back_inter": "",
+                "am_inter": "/22656202799/Tronix_com.cashloan.instantloan.fastcash.loanbaba.inter",
+                "am_native": "/22656202799/Tronix_com.cashloan.instantloan.fastcash.loanbaba.native",
+                "am_banner": "/22656202799/Tronix_com.cashloan.instantloan.fastcash.loanbaba.banner",
+                "am_appopen": "/22656202799/Tronix_com.cashloan.instantloan.fastcash.loanbaba.appopen",
+                "am_back_appopen": "/22656202799/Tronix_com.cashloan.instantloan.fastcash.loanbaba.appopen",
+                "am_back_inter": "/22656202799/Tronix_com.cashloan.instantloan.fastcash.loanbaba.inter",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
