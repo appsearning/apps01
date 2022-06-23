@@ -34,7 +34,7 @@
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
-                "addialogshow": "yes",
+                "addialogshow": "all",
                 "testmode": "no",
                 "SplshScreen": "1",
                 "AllBack": "1",
