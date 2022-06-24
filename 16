@@ -3,9 +3,9 @@
     "DataArray": {
         "Moreapps": [
             {
-                "app_name": "",
-                "app_logo": "",
-                "app_link": ""
+                "app_name": "Marathi English Translator",
+                "app_logo": "https://play-lh.googleusercontent.com/QF6C3L0wwhWhurcKl6Kd4LyDn4SI_eBSmbdMBxB0sgHN_SixQIRPGnjCHR1L5QFks3k=w240-h480",
+                "app_link": "https://play.google.com/store/apps/details?id=com.marathitoenglish.translator.marathi.english"
             }
         ],
         "AppSetting": [
