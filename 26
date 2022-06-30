@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/21753324030,22677682561/com.videodownloader.videodownloaderpro.hdvideodownloader_Interstitial",
-                "am_native": "/21753324030,22677682561/com.videodownloader.videodownloaderpro.hdvideodownloader_Native",
-                "am_banner": "/21753324030,22677682561/com.videodownloader.videodownloaderpro.hdvideodownloader_Banner",
-                "am_appopen": "/21753324030,22677682561/com.videodownloader.videodownloaderpro.hdvideodownloader_AppOpen",
-                "am_back_appopen": "/21753324030,22677682561/com.videodownloader.videodownloaderpro.hdvideodownloader_AppOpen",
-                "am_back_inter": "/21753324030,22677682561/com.videodownloader.videodownloaderpro.hdvideodownloader_Interstitial",
+                "am_inter": "/229445249,22677682561/DWTag-DFPNew_RS88_videodownloaderpro_DKInfoTech_Interstitial_300622_InApp",
+                "am_native": "/229445249,22677682561/DWTag-DFPNew_RS88_videodownloaderpro_DKInfoTech_Native_300622_InApp",
+                "am_banner": "/229445249,22677682561/DWTag-DFPNew_RS88_videodownloaderpro_DKInfoTech_Banner_300622_InApp",
+                "am_appopen": "/229445249,22677682561/DWTag-DFPNew_RS88_videodownloaderpro_DKInfoTech_AppOpen_300622_InApp",
+                "am_back_appopen": "/229445249,22677682561/DWTag-DFPNew_RS88_videodownloaderpro_DKInfoTech_AppOpen_300622_InApp",
+                "am_back_inter": "/229445249,22677682561/DWTag-DFPNew_RS88_videodownloaderpro_DKInfoTech_Interstitial_300622_InApp",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
@@ -28,7 +28,7 @@
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
-                "addialogshow": "yes",
+                "addialogshow": "all",
                 "testmode": "no",
                 "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
