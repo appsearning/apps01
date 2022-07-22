@@ -24,7 +24,7 @@
                 "fb_nativebanner": "379639657459951_379641020793148",
                 "fb_reward": "YOUR_PLACEMENT_ID",
                 "ads_prioritytype": "fix",
-                "ads_priority": "0,1",
+                "ads_priority": "0",
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
