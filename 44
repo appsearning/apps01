@@ -22,7 +22,7 @@
                 "am_appopen": "/21753324030,22677682561/com.fastvideodownloader.storydownloader.allvideodownloader_AppOpen",
                 "am_appopen1": "/21753324030,22677682561/com.fastvideodownloader.storydownloader.allvideodownloader_AppOpen",
                 "am_back_appopen": "/21753324030,22677682561/com.fastvideodownloader.storydownloader.allvideodownloader_AppOpen",
-                "am_back_inter": "",
+                "am_back_inter": "/21753324030,22677682561/com.fastvideodownloader.storydownloader.allvideodownloader_Interstitial",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
@@ -36,8 +36,8 @@
                 "appopenshow": "yes",
                 "addialogshow": "yes",
                 "testmode": "no",
-                "SplshScreen": "0",
-                "AllBack": "0",
+                "SplshScreen": "1",
+                "AllBack": "1",
                 "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
