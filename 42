@@ -32,12 +32,12 @@
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,2",
                 "showads": "yes",
-                "clickcount": "2",
+                "clickcount": "0",
                 "appopenshow": "yes",
                 "addialogshow": "all",
                 "testmode": "no",
-                "SplshScreen": "0",
-                "AllBack": "0",
+                "SplshScreen": "1",
+                "AllBack": "1",
                 "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
