@@ -5,7 +5,7 @@
             {
                 "app_name": "",
                 "app_logo": "",
-                "app_link": ""
+                "app_link": "com.fastvideodownloader.storydownloader.allvideodownloader"
             }
         ],
         "AppSetting": [
@@ -32,7 +32,7 @@
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,2",
                 "showads": "yes",
-                "clickcount": "2",
+                "clickcount": "0",
                 "appopenshow": "yes",
                 "addialogshow": "yes",
                 "testmode": "no",
