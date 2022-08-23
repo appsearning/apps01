@@ -1,45 +1,28 @@
 {
-    "Response": "Success",
-    "DataArray": {
-        "Moreapps": [
-            {
-                "app_name": "",
-                "app_logo": "",
-                "app_link": "com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver"
-            }
-        ],
-        "AppSetting": [
-            {
-                "appislive": "yes",
-                "am_inter": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Interstitial",
-                "am_inter_adx1": "/229445249,22677682561/DWTag-DFPNew_RS88_GBstatussaver_DKInfotech_Interstitial_100822_InApp",
-                "am_inter_adx2": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Interstitial",
-                "am_inter_adx3": "/229445249,22677682561/DWTag-DFPNew_RS88_GBstatussaver_DKInfotech_Interstitial_100822_InApp",
-                "am_native": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Native",
-                "am_native1": "/229445249,22677682561/DWTag-DFPNew_RS88_GBstatussaver_DKInfotech_Native_100822_InApp",
-                "am_banner": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Banner",
-                "am_banner1": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Banner",
-                "am_appopen": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_AppOpen",
-                "am_appopen1": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_AppOpen",
-                "am_back_appopen": "/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_AppOpen",
-                "am_back_inter": "/229445249,22677682561/DWTag-DFPNew_RS88_GBstatussaver_DKInfotech_Interstitial_100822_InApp",
-                "am_reward": "",
-                "fb_inter": "",
-                "fb_native": "",
-                "fb_banner": "",
-                "fb_nativebanner": "",
-                "fb_reward": "YOUR_PLACEMENT_ID",
-                "ads_prioritytype": "fix",
-                "ads_priority": "0,2",
-                "showads": "yes",
-                "clickcount": "0",
-                "appopenshow": "yes",
-                "addialogshow": "all",
-                "testmode": "no",
-                "SplshScreen": "1",
-                "AllBack": "1",
-                "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
-            }
-        ]
-    }
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_AppOpen",
+         "admob_BgOpenads":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_AppOpen",
+         "admob_inter":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Interstitial",
+         "admob_inter1":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Interstitial",
+         "admob_back_inter":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Interstitial",
+         "admob_back_inter1":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Interstitial",
+         "admob_banner":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Banner",
+         "admob_native":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Native",
+         "admob_native_banner":"/21753324030,22677682561/com.gbversionapk.gbstatussaver.latestgb.gbtoolkit.gbstorysaver_Native",
+         "qureka_link":"https://1373.win.qureka.com",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
+         "PredictionChamp_link":"https://409.go.predchamp.com",
+         "admobrewardedads":"",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "isSplash":"false"
+      }
+   ]
 }
