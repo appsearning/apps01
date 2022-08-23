@@ -32,7 +32,7 @@
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,2",
                 "showads": "yes",
-                "clickcount": "1",
+                "clickcount": "0",
                 "appopenshow": "yes",
                 "addialogshow": "yes",
                 "testmode": "no",
