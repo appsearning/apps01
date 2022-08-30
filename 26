@@ -4,7 +4,7 @@
          "id":"26",
          "app_version":1,
          "app_link":"com.videodownloader.videodownloaderpro.hdvideodownloader",
-         "vpn_show":"true",
+         "vpn_show":"false",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#9EB23B",
          "ad_type":"AdMOB",
