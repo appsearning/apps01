@@ -26,11 +26,11 @@
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,2",
                 "showads": "yes",
-                "clickcount": "4",
+                "clickcount": "0",
                 "appopenshow": "yes",
                 "addialogshow": "yes",
                 "testmode": "no",
-                "addextra": "match,https://1373.win.qureka.com,https://497.go.mglgamez.com,https://409.go.predchamp.com,no,on"
+                "addextra": "match,https://play536.atmequiz.com/,https://497.go.mglgamez.com,https://409.go.predchamp.com,no,on"
             }
         ]
     }
