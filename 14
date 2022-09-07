@@ -24,13 +24,13 @@
                 "fb_nativebanner": "379639657459951_379641020793148",
                 "fb_reward": "YOUR_PLACEMENT_ID",
                 "ads_prioritytype": "fix",
-                "ads_priority": "0",
+                "ads_priority": "0,2",
                 "showads": "yes",
-                "clickcount": "2",
+                "clickcount": "1",
                 "appopenshow": "yes",
                 "addialogshow": "all",
                 "testmode": "no",
-                "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
+                "addextra": "match,https://play536.atmequiz.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
     }
