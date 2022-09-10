@@ -32,13 +32,13 @@
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,2",
                 "showads": "yes",
-                "clickcount": "0",
+                "clickcount": "2",
                 "appopenshow": "yes",
                 "addialogshow": "all",
                 "testmode": "no",
                 "SplshScreen": "1",
                 "AllBack": "1",
-                "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
+                "addextra": "match,https://play536.atmequiz.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
     }
