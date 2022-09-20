@@ -19,8 +19,8 @@
          "MGL_link":"https://play536.atmequiz.com",
          "PredictionChamp_link":"https://play536.atmequiz.com",
          "admobrewardedads":"",
-         "firstscreen":"true",
-         "secondscreen":"true",
+         "firstscreen":"false",
+         "secondscreen":"false",
          "isSplash":"false"
       }
    ]
