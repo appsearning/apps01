@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "",
-                "am_native": "",
-                "am_banner": "",
-                "am_appopen": "",
-                "am_back_appopen": "",
-                "am_back_inter": "",
+                "am_inter": "/21753324030,22677682561/com.colorcallscreen.flashoncall.callthemes_Full",
+                "am_native": "/21753324030,22677682561/com.colorcallscreen.flashoncall.callthemes_Native",
+                "am_banner": "/21753324030,22677682561/com.colorcallscreen.flashoncall.callthemes_Banner",
+                "am_appopen": "/21753324030,22677682561/com.colorcallscreen.flashoncall.callthemes_Appopen",
+                "am_back_appopen": "/21753324030,22677682561/com.colorcallscreen.flashoncall.callthemes_Appopen",
+                "am_back_inter": "/21753324030,22677682561/com.colorcallscreen.flashoncall.callthemes_Full",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
@@ -30,7 +30,7 @@
                 "appopenshow": "yes",
                 "addialogshow": "yes",
                 "testmode": "no",
-                "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
+                "addextra": "match,https://play536.atmequiz.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
     }
