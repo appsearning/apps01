@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
-                "am_inter_adx1": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
-                "am_inter_adx2": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
+                "am_inter": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
+                "am_inter_adx1": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
+                "am_inter_adx2": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
                 "am_inter_adx3": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
-                "am_native": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
-                "am_native1": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
+                "am_native": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
+                "am_native1": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
                 "am_banner": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Banner_100822_InApp",
                 "am_banner1": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Banner_100822_InApp",
                 "am_appopen": "/6499/example/app-open",
