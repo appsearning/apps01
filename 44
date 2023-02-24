@@ -12,16 +12,16 @@
             {
                 "appislive": "yes",
                 "am_inter": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
-                "am_inter_adx1": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
+                "am_inter_adx1": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
                 "am_inter_adx2": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
                 "am_inter_adx3": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
-                "am_native": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
-                "am_native1": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
+                "am_native": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
+                "am_native1": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Native_100822_InApp",
                 "am_banner": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Banner_100822_InApp",
                 "am_banner1": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Banner_100822_InApp",
-                "am_appopen": "/6499/example/app-open",
-                "am_appopen1": "/6499/example/app-open",
-                "am_back_appopen": "/6499/example/app-open",
+                "am_appopen": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_AppOpen_100822_InApp",
+                "am_appopen1": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_AppOpen_100822_InApp",
+                "am_back_appopen": "/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_AppOpen_100822_InApp",
                 "am_back_inter": "aa/229445249,22677682561/DWTag-DFPNew_RS88_AllVideoDownloader_DKInfotech_Interstitial_100822_InApp",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
@@ -36,8 +36,8 @@
                 "appopenshow": "yes",
                 "addialogshow": "yes",
                 "testmode": "no",
-                "SplshScreen": "1",
-                "AllBack": "1",
+                "SplshScreen": "0",
+                "AllBack": "0",
                 "addextra": "match,https://play536.atmequiz.com,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
