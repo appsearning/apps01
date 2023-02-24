@@ -30,7 +30,7 @@
                 "fb_nativebanner": "",
                 "fb_reward": "",
                 "ads_prioritytype": "fix",
-                "ads_priority": "0,2",
+                "ads_priority": "1,2",
                 "showads": "yes",
                 "clickcount": "1",
                 "appopenshow": "yes",
